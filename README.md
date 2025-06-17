@@ -30,7 +30,7 @@ Linha 28, "int comparar_leitura" é pra ordenar a leitura em ordem decrescente.
 
 Linha 41, "TiposDeDados checar_qual_tipo", pra checar os tipos bool, int, float e string.
 
-Linha 100, qsort serve como suporte, dentro do int main
+Linha 100, qsort serve como suporte, dentro do int main, para a ordenação das leituras do timestamp por ordem decrescente.
 
 Detalhe: se não digitar corretamente o nome do arquivo que você queira abrir, aparecerá por essa mensagem: Abrindo arquivo: ..... ERROR! (Mesma coisa no segundo, se digitar sensor errado ou o timestamp idêntico ou algo parecido, e no terceiro programa, caso não digitasse corretamente a data, o nome e o tipo de dado)
 ____________________________________________________
