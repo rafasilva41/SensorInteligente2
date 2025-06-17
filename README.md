@@ -45,6 +45,11 @@ Esse programa PODE conter:
 Argumento válido
 Data inválida
 
+Caso, na hora da execução, escreva só o nome do arquivo que será executado (por exemplo, .\SenPri2.exe), aparecerá as seguintes mensagens:
+Programa 1: Uso: SenPri2.exe <arquivo_entrada>
+Programa 2: Uso: SenSeg2.exe <sensor> <timestamp>
+Programa 3: Uso: SenTer2.exe <inicio> <fim> <sensor1> <tipo1> [...]
+
 ____________________________________________________________
 
 O que recomendo na hora da execução?
