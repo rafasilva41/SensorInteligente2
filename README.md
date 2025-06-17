@@ -27,7 +27,9 @@ typedef struct {
 } Sensor; //Estrutura sobre o sensor, com ID_SENSOR.
 
 Linha 28, "int comparar_leitura" é pra ordenar a leitura em ordem decrescente.
+
 Linha 41, "TiposDeDados checar_qual_tipo", pra checar os tipos bool, int, float e string.
+
 Linha 100, qsort serve como suporte, dentro do int main
 
 Detalhe: se não digitar corretamente o nome do arquivo que você queira abrir, aparecerá por essa mensagem: Abrindo arquivo: ..... ERROR! (Mesma coisa no segundo, se digitar sensor errado ou o timestamp idêntico ou algo parecido, e no terceiro programa, caso não digitasse corretamente a data, o nome e o tipo de dado)
@@ -49,10 +51,14 @@ ____________________________________________________________
 
 O que recomendo na hora da execução?
 Programa 3
+
 Programa 1
+
 Programa 2
 
 Caso, na hora da execução, escreva só o nome do arquivo que será executado (por exemplo, .\SenPri2.exe), aparecerá as seguintes mensagens:
 Programa 1: Uso: SenPri2.exe <arquivo_entrada>
+
 Programa 2: Uso: SenSeg2.exe <sensor> <timestamp>
+
 Programa 3: Uso: SenTer2.exe <inicio> <fim> <sensor1> <tipo1> [...]
