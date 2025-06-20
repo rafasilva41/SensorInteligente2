@@ -49,6 +49,9 @@ Data inválida
 
 ____________________________________________________________
 
+Ordem da compilação:
+Programas 1, 2 e 3; ou programas 3, 1 e 2 (que são também as ordens de execução).
+
 O que recomendo na hora da execução?
 Programa 3
 
